@@ -130,7 +130,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
-
+- [Nim](https://github.com/VPashkov/awesome-nim)
 
 ## Front-End Development
 
